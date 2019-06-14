@@ -70,7 +70,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Let Travel API v1.0 test aaa
+                    Let Travel API v1.0 OK
                 </div>
             </div>
             
