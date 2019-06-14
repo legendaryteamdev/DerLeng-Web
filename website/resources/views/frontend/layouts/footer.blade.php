@@ -3,13 +3,13 @@
 <div class="cy_footer_wrapper cy_section_padding padder_bottom75">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="footer-widget cy_footer_about">
                         <img src="public/theme/images/logo.png" alt="logo" class="img-fluid"/>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
                     </div>  
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="footer-widget">
                     <h1 class="widget-title">recent blog</h1>
                     <div class="cy_recent_post">
@@ -32,7 +32,7 @@
                     </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-lg-4 col-md-6">
                     <div class="footer-widget">
                         <h1 class="widget-title">contact info</h1>
                     </div>
@@ -56,7 +56,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <!-- <div class="col-lg-3 col-md-6">
                     <div class="footer-widget">
                         <h1 class="widget-title">flicker widget</h1>
                         <div class="cy_foo_gallery">
@@ -70,7 +70,7 @@
                             </ul>
                         </div>
                     </div>
-                </div>  
+                </div>   -->
             </div>
         </div>
     </div>
