@@ -36,7 +36,7 @@
         </div>
 </div>
 <!--About section start-->
-<div class="cy_about_wrapper">
+<!-- <div class="cy_about_wrapper">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-12">
@@ -50,6 +50,255 @@
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p>
                         <a href="#" class="cy_button">read more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div> -->
+    <!--Events Sevtion Start-->
+    <div class="cy_event_wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <h1 class="cy_heading">Explore Resort</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-12">
+                    <div class="cy_event_box">
+                        <div class="cy_event_img">
+                            <img src="public/theme/images/event/event1.jpg" alt="event" class="img-fluid" />
+                            <div class="cy_event_detail">
+                                <div class="cy_event_time">
+                                    <ul>
+                                        <li><i><img src="public/theme/images/svg/clock.svg" alt="event time"></i> 12:00 PM to 5:00PM</li>
+                                        <li><i><img src="public/theme/images/svg/map.svg" alt="event address"></i>Northumberland</li>
+                                    </ul>
+                                </div>
+                                <div class="cy_event_date">
+                                    <span class="ev_date">08 nov</span>
+                                    <span class="ev_yr">2018</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cy_event_data">
+                            <h2><a href="event_single.html">Northumberland Cycling Event 2018</a></h2>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12">
+                    <div class="cy_event_box">
+                        <div class="cy_event_img">
+                            <img src="public/theme/images/event/event2.jpg" alt="event" class="img-fluid" />
+                            <div class="cy_event_detail">
+                                <div class="cy_event_time">
+                                    <ul>
+                                        <li><i><img src="public/theme/images/svg/clock.svg" alt="event time"></i> 12:00 PM to 5:00PM</li>
+                                        <li><i><img src="public/theme/images/svg/map.svg" alt="event address"></i>Northumberland</li>
+                                    </ul>
+                                </div>
+                                <div class="cy_event_date">
+                                    <span class="ev_date">08 nov</span>
+                                    <span class="ev_yr">2018</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cy_event_data">
+                            <h2><a href="event_single.html">Tour de Felasco 2018</a></h2>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12">
+                    <div class="cy_event_box">
+                        <div class="cy_event_img">
+                            <img src="public/theme/images/event/event3.jpg" alt="event" class="img-fluid" />
+                            <div class="cy_event_detail">
+                                <div class="cy_event_time">
+                                    <ul>
+                                        <li><i><img src="public/theme/images/svg/clock.svg" alt="event time"></i> 12:00 PM to 5:00PM</li>
+                                        <li><i><img src="public/theme/images/svg/map.svg" alt="event address"></i>Northumberland</li>
+                                    </ul>
+                                </div>
+                                <div class="cy_event_date">
+                                    <span class="ev_date">08 nov</span>
+                                    <span class="ev_yr">2018</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cy_event_data">
+                            <h2><a href="event_single.html">Covered Bridges Ride 2018</a></h2>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-12">
+                    <div class="cy_event_box">
+                        <div class="cy_event_img">
+                            <img src="public/theme/images/event/event1.jpg" alt="event" class="img-fluid" />
+                            <div class="cy_event_detail">
+                                <div class="cy_event_time">
+                                    <ul>
+                                        <li><i><img src="public/theme/images/svg/clock.svg" alt="event time"></i> 12:00 PM to 5:00PM</li>
+                                        <li><i><img src="public/theme/images/svg/map.svg" alt="event address"></i>Northumberland</li>
+                                    </ul>
+                                </div>
+                                <div class="cy_event_date">
+                                    <span class="ev_date">08 nov</span>
+                                    <span class="ev_yr">2018</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cy_event_data">
+                            <h2><a href="event_single.html">Northumberland Cycling Event 2018</a></h2>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                    <div class="cy_event_box">
+                        <div class="cy_event_img">
+                            <img src="public/theme/images/event/event2.jpg" alt="event" class="img-fluid" />
+                            <div class="cy_event_detail">
+                                <div class="cy_event_time">
+                                    <ul>
+                                        <li><i><img src="public/theme/images/svg/clock.svg" alt="event time"></i> 12:00 PM to 5:00PM</li>
+                                        <li><i><img src="public/theme/images/svg/map.svg" alt="event address"></i>Northumberland</li>
+                                    </ul>
+                                </div>
+                                <div class="cy_event_date">
+                                    <span class="ev_date">08 nov</span>
+                                    <span class="ev_yr">2018</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cy_event_data">
+                            <h2><a href="event_single.html">Tour de Felasco 2018</a></h2>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                    <div class="cy_event_box">
+                        <div class="cy_event_img">
+                            <img src="public/theme/images/event/event3.jpg" alt="event" class="img-fluid" />
+                            <div class="cy_event_detail">
+                                <div class="cy_event_time">
+                                    <ul>
+                                        <li><i><img src="public/theme/images/svg/clock.svg" alt="event time"></i> 12:00 PM to 5:00PM</li>
+                                        <li><i><img src="public/theme/images/svg/map.svg" alt="event address"></i>Northumberland</li>
+                                    </ul>
+                                </div>
+                                <div class="cy_event_date">
+                                    <span class="ev_date">08 nov</span>
+                                    <span class="ev_yr">2018</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cy_event_data">
+                            <h2><a href="event_single.html">Covered Bridges Ride 2018</a></h2>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
+                    <div class="cy_event_box">
+                        <div class="cy_event_img">
+                            <img src="public/theme/images/event/event3.jpg" alt="event" class="img-fluid" />
+                            <div class="cy_event_detail">
+                                <div class="cy_event_time">
+                                    <ul>
+                                        <li><i><img src="public/theme/images/svg/clock.svg" alt="event time"></i> 12:00 PM to 5:00PM</li>
+                                        <li><i><img src="public/theme/images/svg/map.svg" alt="event address"></i>Northumberland</li>
+                                    </ul>
+                                </div>
+                                <div class="cy_event_date">
+                                    <span class="ev_date">08 nov</span>
+                                    <span class="ev_yr">2018</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cy_event_data">
+                            <h2><a href="event_single.html">Covered Bridges Ride 2018</a></h2>
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Prices section start-->
+    <div class="cy_price_wrapper">
+        <div class="container">
+            <div class="row">
+                <!-- <div class="col-lg-4 col-md-12">
+                    <div class="cy_price_box">
+                        <div class="cy_price_head">
+                            <h3>short</h3>
+                            <h1>$30</h1>
+                        </div>
+                        <div class="cy_price_body">
+                            <ul>
+                                <li>Solo</li>
+                                <li>Length: 20 km</li>
+                                <li>120 Member</li>
+                                <li>Accessories</li>
+                            </ul>
+                            <div class="cy_price_btn">
+                                <a href="#" class="cy_button">register now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12">
+                    <div class="cy_price_box">
+                        <div class="cy_price_head">
+                            <h3>medium</h3>
+                            <h1>$50</h1>
+                        </div>
+                        <div class="cy_price_body">
+                            <ul>
+                                <li>Solo</li>
+                                <li>Length: 40 km</li>
+                                <li>100 Member</li>
+                                <li>Accessories</li>
+                            </ul>
+                            <div class="cy_price_btn">
+                                <a href="#" class="cy_button">register now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="col-lg-8 col-md-12">
+
+                </div>
+                <div class="col-lg-4 col-md-12">
+                    <div class="cy_price_box">
+                        <div class="cy_price_head">
+                            <h3>long</h3>
+                            <h1>$80</h1>
+                        </div>
+                        <div class="cy_price_body">
+                            <ul>
+                                <li> 2 Team</li>
+                                <li>Length: 60 km</li>
+                                <li>80 Member</li>
+                                <li>Accessories</li>
+                            </ul>
+                            <div class="cy_price_btn">
+                                <a href="#" class="cy_button">register now</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -239,90 +488,6 @@
                 <div class="col-lg-5 col-md-5">
                     <div class="cy_tour_heading">
                         <h1>join our club</h1>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--Events Sevtion Start-->
-    <div class="cy_event_wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12">
-                    <h1 class="cy_heading">Upcoming Event</h1>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-12">
-                    <div class="cy_event_box">
-                        <div class="cy_event_img">
-                            <img src="public/theme/images/event/event1.jpg" alt="event" class="img-fluid" />
-                            <div class="cy_event_detail">
-                                <div class="cy_event_time">
-                                    <ul>
-                                        <li><i><img src="public/theme/images/svg/clock.svg" alt="event time"></i> 12:00 PM to 5:00PM</li>
-                                        <li><i><img src="public/theme/images/svg/map.svg" alt="event address"></i>Northumberland</li>
-                                    </ul>
-                                </div>
-                                <div class="cy_event_date">
-                                    <span class="ev_date">08 nov</span>
-                                    <span class="ev_yr">2018</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="cy_event_data">
-                            <h2><a href="event_single.html">Northumberland Cycling Event 2018</a></h2>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
-                            <a href="event_single.html" class="cy_button">read more</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-12">
-                    <div class="cy_event_box">
-                        <div class="cy_event_img">
-                            <img src="public/theme/images/event/event2.jpg" alt="event" class="img-fluid" />
-                            <div class="cy_event_detail">
-                                <div class="cy_event_time">
-                                    <ul>
-                                        <li><i><img src="public/theme/images/svg/clock.svg" alt="event time"></i> 12:00 PM to 5:00PM</li>
-                                        <li><i><img src="public/theme/images/svg/map.svg" alt="event address"></i>Northumberland</li>
-                                    </ul>
-                                </div>
-                                <div class="cy_event_date">
-                                    <span class="ev_date">08 nov</span>
-                                    <span class="ev_yr">2018</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="cy_event_data">
-                            <h2><a href="event_single.html">Tour de Felasco 2018</a></h2>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
-                            <a href="event_single.html" class="cy_button">read more</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-12">
-                    <div class="cy_event_box">
-                        <div class="cy_event_img">
-                            <img src="public/theme/images/event/event3.jpg" alt="event" class="img-fluid" />
-                            <div class="cy_event_detail">
-                                <div class="cy_event_time">
-                                    <ul>
-                                        <li><i><img src="public/theme/images/svg/clock.svg" alt="event time"></i> 12:00 PM to 5:00PM</li>
-                                        <li><i><img src="public/theme/images/svg/map.svg" alt="event address"></i>Northumberland</li>
-                                    </ul>
-                                </div>
-                                <div class="cy_event_date">
-                                    <span class="ev_date">08 nov</span>
-                                    <span class="ev_yr">2018</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="cy_event_data">
-                            <h2><a href="event_single.html">Covered Bridges Ride 2018</a></h2>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
-                            <a href="event_single.html" class="cy_button">read more</a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -655,75 +820,6 @@
                                         <a href="cart.html" class="cy_button" data-hover="Add to Cart"><span>$2500</span></a>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--Prices section start-->
-    <div class="cy_price_wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12">
-                    <h1 class="cy_heading">fee structure & Races</h1>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-12">
-                    <div class="cy_price_box">
-                        <div class="cy_price_head">
-                            <h3>short</h3>
-                            <h1>$30</h1>
-                        </div>
-                        <div class="cy_price_body">
-                            <ul>
-                                <li>Solo</li>
-                                <li>Length: 20 km</li>
-                                <li>120 Member</li>
-                                <li>Accessories</li>
-                            </ul>
-                            <div class="cy_price_btn">
-                                <a href="#" class="cy_button">register now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-12">
-                    <div class="cy_price_box">
-                        <div class="cy_price_head">
-                            <h3>medium</h3>
-                            <h1>$50</h1>
-                        </div>
-                        <div class="cy_price_body">
-                            <ul>
-                                <li>Solo</li>
-                                <li>Length: 40 km</li>
-                                <li>100 Member</li>
-                                <li>Accessories</li>
-                            </ul>
-                            <div class="cy_price_btn">
-                                <a href="#" class="cy_button">register now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-12">
-                    <div class="cy_price_box">
-                        <div class="cy_price_head">
-                            <h3>long</h3>
-                            <h1>$80</h1>
-                        </div>
-                        <div class="cy_price_body">
-                            <ul>
-                                <li> 2 Team</li>
-                                <li>Length: 60 km</li>
-                                <li>80 Member</li>
-                                <li>Accessories</li>
-                            </ul>
-                            <div class="cy_price_btn">
-                                <a href="#" class="cy_button">register now</a>
                             </div>
                         </div>
                     </div>
