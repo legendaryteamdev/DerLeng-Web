@@ -20,7 +20,3 @@ Route::group(['namespace' => 'Frontend'], function () {
 	require(__DIR__.'/frontend/main.php');
 
 });
-
-Route::group(['as' => 'cp.', 'prefix' => 'cp', 'namespace' => 'CP'], function() {
-	require(__DIR__.'/cp/main.php');
-});

@@ -18,18 +18,14 @@ $api->version('v1', function ($api) {
 	$api->group(['prefix' => 'auth', 'middleware' => 'cors'], function ($api) {
         require(__DIR__.'/Api/V1/Auth/main.php');
     });
-	
-    $api->group(['prefix' => 'cp', 'middleware' => 'cors'], function ($api) {
-        require(__DIR__.'/Api/V1/CP/main.php');
-    });
 
-    $api->group(['prefix' => 'mo', 'middleware' => 'cors'], function ($api) {
-        require(__DIR__.'/Api/V1/MO/main.php');
-    });
+    // $api->group(['prefix' => 'mo', 'middleware' => 'cors'], function ($api) {
+    //     require(__DIR__.'/Api/V1/MO/main.php');
+    // });
 
-    $api->group(['prefix' => 'mt', 'middleware' => 'cors'], function ($api) {
-        require(__DIR__.'/Api/V1/MT/main.php');
-    });
+    // $api->group(['prefix' => 'mt', 'middleware' => 'cors'], function ($api) {
+    //     require(__DIR__.'/Api/V1/MT/main.php');
+    // });
 
     $api->group(['middleware' => 'cors'], function ($api) {
         require(__DIR__.'/Api/V1/Client/main.php');
