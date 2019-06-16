@@ -1699,7 +1699,7 @@ span.ev_yr {
     background-image: url(../images/price_wrapper.jpg);
     background-size: cover;
     position: relative;
-    padding: 100px 0px;
+    padding: 10px 0px;
 }
 .cy_price_wrapper:before {
     position: absolute;
@@ -1756,8 +1756,6 @@ span.ev_yr {
 }
 .cy_price_box {
     overflow: hidden;
-    background-color: rgba(0, 0, 0, 0.35);
-    border-bottom: 2px solid #ff712a;
     transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
     -moz-transition: all 0.s ease-in-out;

@@ -25,6 +25,9 @@ Author: Kamleshyadav
     <meta name="keywords" content="">
     <meta name="author" content="Hsoft">
     <meta name="MobileOptimized" content="320">
+    <script src="{{ asset('js/app.js') }}" defer></script>
+    <!-- Styles -->
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <!-- favicon links-->
     <link rel="icon" type="image/icon" href="favicon.png">
     <!-- main css -->
@@ -50,7 +53,7 @@ Author: Kamleshyadav
                     <div class="col-lg-12 col-md-12">
                         <div class="cy_top_detail">
                             <ul>
-                                <li><a href="#">EMAIL: Info@yourmail.com</a></li>
+                                <!-- <li><a href="#">EMAIL: Info@yourmail.com</a></li>
                                 <li>PHONE: 18009001010</li>
                                 <li>
                                     <ul>
@@ -60,9 +63,9 @@ Author: Kamleshyadav
                                         <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                                         <li><a href="#"><i class="fa fa-tumblr" aria-hidden="true"></i></a></li>
                                     </ul>
-                                </li>
-                                <li class="cart"><a href="#"><i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                                    <span>2</span></a>
+                                </li> -->
+                                <li class="cart"><a href="#"><i class="fa" aria-hidden="true"></i>
+                                    <!-- <span>2</span></a>
                                     <ul class="cart_box">
                                         <li>
                                             <div class="cart_section">
@@ -101,7 +104,7 @@ Author: Kamleshyadav
                                                 <a href="checkout.html" class="cy_button">Checkout</a>
                                             </div>
                                         </li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                             </ul>
                         </div>

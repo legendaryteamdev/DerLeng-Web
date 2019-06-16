@@ -13,14 +13,14 @@
                         <nav>
                             <ul>
                                 <li><a href="{{ route('home')}}" class="active">home</a></li>
-                                <li><a href="{{ route('about-us')}}">about</a></li>
+                                <li><a href="{{ route('province')}}">province</a></li>
                                 <li><a href="{{ route('resort')}}">resort</a>
+                                <li><a href="{{ route('about-us')}}">about</a></li>
                                     {{-- <ul class="sub-menu">
                                         <li><a href="event.html">event</a></li>
                                         <li><a href="event_single.html">event single</a></li>
                                     </ul> --}}
                                 </li>
-                                <li><a href="{{ route('province')}}">province</a></li>
                                 {{-- <li class="dropdown"><a href="javascript:;">pages</a>
                                     <ul class="sub-menu">
                                         <li><a href="shop.html">shop</a></li>

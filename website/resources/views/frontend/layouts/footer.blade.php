@@ -14,20 +14,34 @@
                     <h1 class="widget-title">recent blog</h1>
                     <div class="cy_recent_post">
                         <div class="cy_post_img">
-                            <a href="#"><img src="public/theme/images/footer/post1.jpg" alt="post"/></a>
+                            <a href="#"><img src="https://img.icons8.com/color/48/000000/facebook.png"></a>
                         </div>
                         <div class="cy_post_data">
-                            <h3><a href="#">Selecting The Proper Bicycle</a></h3>
-                            <p>14 Apr, 2018</p>
+                            <h3><a href="#">www.facebook.com</a></h3>
                         </div>  
                     </div>
                     <div class="cy_recent_post">
                         <div class="cy_post_img">
-                            <a href="#"><img src="public/theme/images/footer/post2.jpg" alt="post"/></a>
+                            <a href="#"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"></a>
                         </div>
                         <div class="cy_post_data">
-                            <h3><a href="#">Selecting The Proper Bicycle</a></h3>
-                            <div class="cy_post_info"><p>14 Apr, 2018</p></div>
+                            <h3><a href="#">www.instagram.com</a></h3>
+                        </div>  
+                    </div>
+                    <div class="cy_recent_post">
+                        <div class="cy_post_img">
+                            <a href="#"><img src="https://img.icons8.com/color/48/000000/twitter.png"></a>
+                        </div>
+                        <div class="cy_post_data">
+                            <h3><a href="#">www.twitter.com</a></h3>
+                        </div>  
+                    </div>
+                    <div class="cy_recent_post">
+                        <div class="cy_post_img">
+                            <a href="#"><img src="https://img.icons8.com/color/48/000000/google-logo.png"></a>
+                        </div>
+                        <div class="cy_post_data">
+                            <h3><a href="#">www.google.com</a></h3>
                         </div>  
                     </div>
                     </div>
