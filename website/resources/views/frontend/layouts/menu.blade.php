@@ -1,7 +1,7 @@
 <!--Menus Start-->
 <div class="cy_menu_wrapper">
         <div class="cy_logo_box">
-            <a href="index.html"><img src="public/theme/images/logo.png" alt="logo" class="img-fluid"/></a>
+            <a href="index.html"><img src="public/theme/images/derleng.png" alt="logo" class="img-fluid" style="height:75px;"/></a>
         </div>
         <div class="container">
             <div class="row">

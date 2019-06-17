@@ -28,22 +28,6 @@
                             <h3><a href="#">www.instagram.com</a></h3>
                         </div>  
                     </div>
-                    <div class="cy_recent_post">
-                        <div class="cy_post_img">
-                            <a href="#"><img src="https://img.icons8.com/color/48/000000/twitter.png"></a>
-                        </div>
-                        <div class="cy_post_data">
-                            <h3><a href="#">www.twitter.com</a></h3>
-                        </div>  
-                    </div>
-                    <div class="cy_recent_post">
-                        <div class="cy_post_img">
-                            <a href="#"><img src="https://img.icons8.com/color/48/000000/google-logo.png"></a>
-                        </div>
-                        <div class="cy_post_data">
-                            <h3><a href="#">www.google.com</a></h3>
-                        </div>  
-                    </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
